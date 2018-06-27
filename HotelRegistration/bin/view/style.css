@@ -1,0 +1,11 @@
+#lbltext{
+	-fx-text-fill: white;
+	-fx-font-weight:bold;
+}
+
+#bpRootBackground{
+	-fx-background-image: url("background.jpg");
+	-fx-background-repeat: stretch;
+	-fx-background-size: 800 440;
+	-fx-background-position: center center;
+}
